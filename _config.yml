@@ -15,7 +15,7 @@ github_username:  noklam
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-83544344-2"
 
 exclude: ['package.json', 'src' , 'node_modules']
 
