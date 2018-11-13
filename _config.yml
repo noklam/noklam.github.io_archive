@@ -1,12 +1,12 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: Learn to be a better coder, and do data science effectively.
+title: A blog generated from Github
+description: Learn to be a better coder, and do data science effectively. Blog about useful stuff.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://abc.com
 
 # User settings
 username: Nok
-user_description: Build neural nets with for cool problems, scikit-learn for not so cool problem and pandas for my actual work.
+user_description: Build neural nets with for cool problems, scikit-learn for not so cool problem and pandas for my actual work. Learning by building, talking, teaching, bloging, discussing is much more effective than watching.
 user_title: Associate Data Scientist
 email: channoklam@yahoo.com.hk
 twitter_username: mediumnok
