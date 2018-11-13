@@ -1,8 +1,9 @@
 # Site settings
 title: A blog generated from Github
 description: Learn to be a better coder, and do data science effectively. Blog about useful stuff.
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://abc.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://noklam.github.io/" # the base hostname & protocol for your site e.g. http://abc.com
+
 
 # User settings
 username: Nok
