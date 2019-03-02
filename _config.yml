@@ -1,5 +1,5 @@
 # Site settings
-title: A blog generated from Github
+title: Nok's Page
 description: Learn to be a better coder, and do data science effectively. Blog about useful stuff.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://noklam.github.io/" # the base hostname & protocol for your site e.g. http://abc.com
@@ -7,8 +7,8 @@ url: "https://noklam.github.io/" # the base hostname & protocol for your site e.
 
 # User settings
 username: Nok
-user_description: Build neural nets with for cool problems, scikit-learn for not so cool problem and pandas for my actual work. Learning by building, talking, teaching, bloging, discussing is much more effective than watching.
-user_title: Associate Data Scientist
+user_description: No one are born to be data scientist, "fake it till you make it". Build neural nets with for cool problems, scikit-learn for not so cool problem and pandas for my actual work. Learning by building, talking, teaching, bloging, discussing is much more effective than watching.
+user_title: A Fake Data Scientist
 email: channoklam@yahoo.com.hk
 twitter_username: mediumnok
 github_username:  noklam
