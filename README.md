@@ -12,3 +12,8 @@ If you are interested to build a page like this. This page using Particle Theme 
 4. 	docker run -t --rm -v "$PWD":/usr/src/app -p "4000:4000" starefossen/github-pages
 5. go to localhost:4000 or http://192.168.99.100:4000	If you are using Docker Toolbox
 6. Edit _config.yml and html under the _includes directory to personalize your site.
+
+
+# altair viz
+* Need to make sure visualization is in JSON format, upload JSON to github repository then reference as URL
+* Make sure script for vega is put into the script part
