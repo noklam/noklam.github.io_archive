@@ -6,6 +6,10 @@ This is my personal github page, using Particle Theme with Jekyll.
 
 [Visualization (University of Washington)](https://observablehq.com/collection/@uwdata/visualization-curriculum)
 
+* Useful Python Tools
+* from pyinstrument import Profiler
+* torchsnooper -> pytorch profiling
+* knockknock notification
 
 # Instructions
 
