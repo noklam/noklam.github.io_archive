@@ -2,6 +2,11 @@
 
 This is my personal github page, using Particle Theme with Jekyll.
 
+# Resource
+
+[Visualization (University of Washington)](https://observablehq.com/collection/@uwdata/visualization-curriculum)
+
+
 # Instructions
 
 If you are interested to build a page like this. This page using Particle Theme and hosted on Github. You can get yourself a page within 15 minute. Follow these steps if you want.
